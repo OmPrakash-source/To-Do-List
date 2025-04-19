@@ -34,7 +34,6 @@ document.addEventListener('DOMContentLoaded', () => {
       "It's okay to let go. You'll come back stronger! 💡",
       "Progress isn't always linear. You got this! 🚀",
       "Be kind to yourself. Start again with confidence. ❤️",
-      "Reset. Refocus. Restart. 🔁"
     ]
   };
 
